@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=yourtulloh&style=flat&color=d83a7c" alt="viewer" />
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=NBM69&style=flat&color=d83a7c" alt="viewer" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NBM69&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
