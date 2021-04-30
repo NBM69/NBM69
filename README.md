@@ -13,9 +13,11 @@
 <img src ="https://komarev.com/ghpvc/?username=NBM69&style=flat-square&color=red">
 </p>
 
-<p align="center">
-   <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=NBM69&theme=dracula&hide_border=true&bg_color=00000000">
-</p>
+- 🔭 I’m currently working on home
+- 💬 Ask me about something
+- 😄 Pronouns: he/him
+- 📫 How to reach me: [@SyFen_XD](https://t.me/SyFen_XD)
+- ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
 
 <p align="center">
 <b>Trophy</b>
