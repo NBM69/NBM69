@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on home
 - 💬 Ask me about something
 - 😄 Pronouns: he/him
-- 📫 How to reach me: [@NBM69](https://t.me/SyFen_XD)
+- 📫 How to reach me: [@SyFen_XD](https://t.me/SyFen_XD)
 - ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
 
 <p align="center">
